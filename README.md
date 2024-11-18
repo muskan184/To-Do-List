@@ -1,4 +1,4 @@
-# To Do List 
+# To Do List 📒
 A simple To-Do list application is built using HTML, CSS, And JavaScript. User can Add, Delete and Mark Completed. The List Task is persisted using localStorage, so the Tasks will be retained even after reloading or closing the tab.
 
 **Features**
